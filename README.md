@@ -1,3 +1,1 @@
-Decoders for various image formats. 
-
-Supports Bitmap and JPG.
+Bitmap decoder in Java.
